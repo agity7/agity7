@@ -1,6 +1,6 @@
 #### Welcome to Agity7's Code Library
 
-![Header](./header.png)
+![Header](./img/header.png)
 
 ## Table of Contents 📒
 
@@ -20,6 +20,8 @@
 
 ### Pnutmux: An Incredibly Simple and Effective Go Router 🥜
 
+![Header](./img/pnutmux-2.png)
+
 - Refer to our 🔗 [Go Reference](https://pkg.go.dev/gitlab.com/fruitygo/pnutmux) for detailed usage instructions and examples.
 - Refer to the 🔗 [Gitlab Repository](https://gitlab.com/fruitygo/pnutmux).
 
@@ -27,4 +29,5 @@
 
 - Fabriktor simplifies communication between employees, employers, and clients.
 - Visit 🔗 [Fabriktor App](https://fabriktor.com).
-  ![Fabriktor Logo](https://backend.fabriktor.com/filehub/img/gitlab/screwdriver.gif)
+
+![Fabriktor Logo](https://backend.fabriktor.com/filehub/img/gitlab/screwdriver.gif)
