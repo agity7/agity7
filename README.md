@@ -1,5 +1,3 @@
-![Fabriktor Logo](https://backend.fabriktor.com/filehub/img/gitlab/screwdriver.gif)
-
 #### Welcome to Agity7's Code Library
 
 ![Header](./header.png)
@@ -29,3 +27,4 @@
 
 - Fabriktor simplifies communication between employees, employers, and clients.
 - Visit 🔗 [Fabriktor App](https://fabriktor.com).
+  ![Fabriktor Logo](https://backend.fabriktor.com/filehub/img/gitlab/screwdriver.gif)
