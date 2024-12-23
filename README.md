@@ -27,7 +27,7 @@
 
 ### Fabriktor: An All-in-One Workforce Management App 🔨
 
-[![Fabriktor Logo](https://backend.fabriktor.com/filehub/img/gitlab/screwdriver.gif)](https://fabriktor.com)
+[![Fabriktor Logo](./img/fabriktor-boy.gif)](https://fabriktor.com)
 
 - Fabriktor simplifies communication between employees, employers, and clients.
 - Visit 🔗 [Fabriktor App](https://fabriktor.com).
