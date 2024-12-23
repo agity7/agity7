@@ -10,9 +10,9 @@
 ## Introduction
 
 - `Hello!`
-- I'm actively working on my workforce management mobile and web app called `Fabriktor`, which will be released soon.
+- I'm actively working on my workforce management mobile and web app called [Fabriktor](https://fabriktor.com).
 - I develop `microservices` using a minimalistic and uniform approach with `Go`, `Docker`, and `Google Cloud`.
-- I build frontends using `Dart` and `Flutter`, and I use `LazyVim` as my code editor.
+- I build frontends using `Dart` and `Flutter`, and I use `Neovim` as my code editor.
 - I'm a big fan of `dependency injection` and `port and adapter` architecture.
 - I use a balanced approach between functional and object-oriented programming to make my `Go` projects clean and maintainable.
 
