@@ -18,16 +18,14 @@
 
 ## Projects
 
-### Pnutmux: An Incredibly Simple and Effective Go Router 🥜
-
-[![Header](./img/pnutmux-2.png)](https://gitlab.com/fruitygo/pnutmux)
-
-- Refer to our 🔗 [Go Reference](https://pkg.go.dev/gitlab.com/fruitygo/pnutmux) for detailed usage instructions and examples.
-- Refer to the 🔗 [Gitlab Repository](https://gitlab.com/fruitygo/pnutmux).
-
 ### Fabriktor: An All-in-One Workforce Management App 🔨
 
 [![Fabriktor Logo](./img/fabriktor-boy-small.gif)](https://fabriktor.com)
 
 - Fabriktor simplifies communication between employees, employers, and clients.
 - Visit 🔗 [Fabriktor App](https://fabriktor.com).
+
+### Fabriktor/router: An Incredibly Simple and Effective Go Router
+
+- Refer to the 🔗 [Go Reference](https://pkg.go.dev/gitlab.com/fabriktor/router) for detailed usage instructions and examples.
+- Refer to the 🔗 [Gitlab Repository](https://gitlab.com/fabriktor/router).
